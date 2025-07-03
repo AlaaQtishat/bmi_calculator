@@ -17,13 +17,13 @@ This app helps users determine whether they are underweight, normal, or overweig
 
 <img src="screenshots/Screenshot_20250703_013131_com.huawei.android.launcher_edit_1014060517689536.jpg" width="250"/>
 
-<img src="screenshots/Screenshot_20250703_013046_com.example.bmi.jpg" width="250"/>
+<img src="screenshots/Screenshot_20250703_153706_com.example.bmi.jpg" width="250"/>
 
-<img src="screenshots/Screenshot_20250703_013048_com.example.bmi.jpg" width="250"/>
+<img src="screenshots/Screenshot_20250703_153708_com.example.bmi.jpg" width="250"/>
 
-<img src="screenshots/Screenshot_20250703_013103_com.example.bmi.jpg" width="250"/>
+<img src="screenshots/Screenshot_20250703_153724_com.example.bmi.jpg" width="250"/>
 
-<img src="screenshots/Screenshot_20250703_013113_com.example.bmi.jpg" width="250"/>
+<img src="screenshots/Screenshot_20250703_153728_com.example.bmi.jpg" width="250"/>
 
 ## 🛠️ Built With
 
